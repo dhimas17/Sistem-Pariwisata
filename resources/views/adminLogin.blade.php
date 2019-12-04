@@ -48,7 +48,6 @@
             <div class="col-md-8 col-sm-12 text-center ftco-animate">
               <span class="subheading" style="color:white">Admin Login</span>
               <h1 class="mb-4">Jadilah admin yang baik atau tidak sama sekali</h1>
-              <p class="mb-4 mb-md-5">Admin merupakan salah satu cermin utama sistem ini dan menjadi tolak ukur pengunjung tentang sistem ini.</p>
               <form action="/loginAdmin" method="post">
                 <label>
                   <a class = "p-6 px-xl-7 py-xl-6">Username</a>
