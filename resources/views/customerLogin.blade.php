@@ -48,7 +48,6 @@
             <div class="col-md-8 col-sm-12 text-center ftco-animate">
               <span class="subheading" style="color:white">Customer Login</span>
               <h1 class="mb-4">Setiap aturan harus dipatuhi pengunjung yang datang</h1>
-              <p class="mb-4 mb-md-5">Pengunjung yang baik adalah pengunjung yang turut serta menjaga kebersihan serta keindahan alam yang dikunjungi.</p>
               <form action="/loginCustomer" method="post">
                   <label>
                     <a class = "p-6 px-xl-7 py-xl-6">Username</a>
