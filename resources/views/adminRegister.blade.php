@@ -51,7 +51,6 @@
             <br>
               <span class="subheading" style="color:white">Admin Register</span>
               <h1 class="mb-4">Isi data dibawah dengan jujur</h1>
-              <p class="mb-4 mb-md-5">Kepercayaan diperoleh bukan dengan banyaknya perkataan melaikan kesesuaian antara perkataan dan perbuatan.</p>
               <form action="/registerAdmin" method="post">
                   <label>
                     <a class = "p-3 px-xl-4 py-xl-3">Username</a>
