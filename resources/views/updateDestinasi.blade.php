@@ -47,24 +47,15 @@
 		  </div>
 	  </nav>
 
-    <section class="home-slider owl-carousel">
-      <div class="slider-item" style="background-image: url(images/bg_1.jpg);" data-stellar-background-ratio="0.5">
-      	<div class="overlay"></div>
-        <div class="container">
-        <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
-            <div class="col-md-8 col-sm-12 text-center ftco-animate">
-            	<span class="subheading" style="color:white">Update Destinasi</span>
-              <h1 class="mb-4">Surga Tersembunyi Di Kota Malang</h1>
-              <p class="mb-4 mb-md-5">Malang kini menjadi salah satu kota terbaik di Indonesia yang menawarkan gaya hidup urban modern dengan berpusat pada pertanian dan keindahan alam.</p>
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
     <section class="ftco-menu mb-5 pb-5">
     	<div class="container">
+          <div class="row justify-content-center mb-5">
+            <div class="col-md-7 heading-section text-center ftco-animate">
+              <span class="subheading">Update Data</span>
+              <h2 class="mb-4">Destinasi Wisata</h2>
+              <p>Data destinasi yang diupdate berupa nama destinasi, deskripsi, harga tiket masuk, dan foto destinasi wisata.</p>
+            </div>
+           </div>
     		<div class="row d-md-flex">
 	    		<div class="col-lg-12 ftco-animate p-md-5">
 		    		<div class="row">
@@ -115,8 +106,6 @@
     <script src="js/bootstrap-datepicker.js"></script>
     <script src="js/jquery.timepicker.min.js"></script>
     <script src="js/scrollax.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-    <script src="js/google-map.js"></script>
     <script src="js/main.js"></script>
   </body>
 </html>
